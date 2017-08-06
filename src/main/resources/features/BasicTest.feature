@@ -8,14 +8,14 @@ Feature: Use the website to find restaurants
     When I search for restaurants
     Then I should see some restaurants in "AR51 1AA"
 
-  Scenario: Search for restaurants for cuisine
+  Scenario: I should be able to filter the results based on cuisine
     Given I want food in "AR51 1AA"
     When I search for restaurants
     Then I should see some restaurants in "AR51 1AA"
     When I filter results for cuisine "American"
     Then I should see "American" cuisine restaurants
 
-  Scenario: Search for restaurants in an area
+  Scenario: I should be able to filter the restaurant by its name
     Given I want food in "AR51 1AA"
     When I search for restaurants
     Then I should see some restaurants in "AR51 1AA"
