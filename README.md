@@ -4,7 +4,7 @@ This project contains tests to run against [JustEat](https://www.just-eat.co.uk/
 * I should be able to filter the results based on cuisine
 * I should be able to filter the restaurant by its name
 
-##Platform
+#Platform
 Test has been implemented using
 * Mac
 * Java
@@ -12,7 +12,7 @@ Test has been implemented using
 * Maven
 * Intelli J Idea
 
-##Instructions for execution
+#Instructions for execution
 * Machine with Java 1.8 installed is required for execution. 
 * Tests are implemented for google chrome, chromedriver (for mac) is bundled within the project for quick execution. 
 * You need to install and setup maven if you wish to run test from command line
