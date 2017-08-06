@@ -6,11 +6,11 @@ This project contains tests to run against [JustEat](https://www.just-eat.co.uk/
 
 ## Platform
 Test has been implemented using
-* Mac
-* Java
-* Selenium
-* Maven
-* Intelli J Idea
+* MacOS v10.12 
+* Java v1.8
+* Selenium v3
+* Maven v3
+* Intelli J Idea v2017.1.4 
 
 ## Instructions for execution
 * Machine with Java 1.8 installed is required for execution. 
