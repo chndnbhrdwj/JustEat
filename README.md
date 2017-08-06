@@ -3,13 +3,15 @@ This project contains tests to run against [JustEat](https://www.just-eat.co.uk/
 * I should be able to find restaurants in my area
 * I should be able to filter the results based on cuisine
 * I should be able to filter the restaurant by its name
+
 ##Platform
-The test has been implemented using
+Test has been implemented using
 * Mac
 * Java
 * Selenium
 * Maven
 * Intelli J Idea
+
 ##Instructions for execution
 * Machine with Java 1.8 installed is required for execution. 
 * Tests are implemented for google chrome, chromedriver (for mac) is bundled within the project for quick execution. 
